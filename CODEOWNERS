@@ -1,1 +1,11 @@
-## TEST
+## BTA Charts
+charts/txp-payment-account/ @AD/txp-bola
+..
+
+## CE Charts
+charts/txp-ce-authorization/ @AD/txp-clean-energy
+..
+
+## Shared Charts
+charts/bola-front-end/ @AD/txp-bola @AD/txp-clean-energy
+..
